@@ -1,1 +1,1 @@
-#Foot ball predictions based on betting odds using  neural net 
+#Foot ball predictions based on betting odds using  neural net   
